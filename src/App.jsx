@@ -467,7 +467,7 @@ function App() {
                     "Full-featured online store with payment integration and admin dashboard",
                   tags: ["React", "Node.js", "MongoDB"],
                   accent: "#6366f1",
-                  liveUrl: "https://ecommerce-demo.com",
+                  liveUrl: "#",
                   codeUrl: "https://github.com/yourusername/ecommerce",
                 },
                 {
@@ -485,8 +485,8 @@ function App() {
                     "Modern responsive portfolio with animated transitions",
                   tags: ["React", "CSS3"],
                   accent: "#f59e0b",
-                  liveUrl: "https://ecommerce-demo.com",
-                  codeUrl: "https://github.com/avi-i05/ecommerce",
+                  liveUrl: "https://portfolio-one-pi-40.vercel.app/",
+                  codeUrl: "https://github.com/avi-i05/portfolio",
                 },
               ].map((project, index) => (
                 <motion.div
@@ -1052,5 +1052,6 @@ function App() {
   );
 }
 export default App;
+
 
 
